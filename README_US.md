@@ -281,9 +281,11 @@ Serverless online PDF certificate generator
 ## 🌐 Connect With Me
 
 <div align="center">
+
   [![Website](https://img.shields.io/badge/🌐%20Website-lombard--web--services.com-8B4513?style=for-the-badge)](https://lombard-web-services.com)
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Thibaut%20Lombard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibautlombard/)
   [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@lombardweb-1DA1F2?style=for-the-badge)](https://twitter.com/lombardweb)
+  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Thibaut%20Lombard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibautlombard/)
+
 </div>
 
 ---
