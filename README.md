@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Animated Header avec couleurs marron/brunes -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Thibaut%20Lombard&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Fullstack%20Developer&descAlignY=55&descSize=18"/>
+  <!-- Animated Header avec dégradé brun/chocolat -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,28,30,32&height=180&section=header&text=Thibaut%20Lombard&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Project%20Manager&descAlignY=55&descSize=16"/>
 
   <!-- Profile Views & Social -->
   <p>
@@ -15,7 +15,7 @@
   </p>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Fullstack+Developer+%F0%9F%92%BB;Low-level+Systems+Programmer+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Fullstack+Developer+%F0%9F%92%BB;Project+Manager+%F0%9F%93%8B;Low-level+Systems+Programmer+%E2%9A%A1;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@ Documentation technique sur divers sujets
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Docs-Technical-green)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
 ### 📱 [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
 Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applications Android avec HTTPS, support systemd et gestion flexible des certificats
@@ -51,7 +51,7 @@ Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applicat
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Telemetry-green)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
 ### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
 Signature thermodynamique de la lumière en sonoluminescence
@@ -60,7 +60,7 @@ Signature thermodynamique de la lumière en sonoluminescence
 ![Physics](https://img.shields.io/badge/Physics-Research-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
 
 ### 🔐 [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
 Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Canvas, Audio, WebGL, zero dépendance
@@ -69,7 +69,7 @@ Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Can
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Security](https://img.shields.io/badge/Security-Fingerprinting-red)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
 
 ### 📐 [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
 Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least Squares) adapté à la perte de Cauchy
@@ -78,7 +78,7 @@ Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least
 ![Math](https://img.shields.io/badge/Math-Optimization-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
 ### 📜 [Deontology](https://github.com/Lombard-Web-Services/deontology)
 Framework et spécification pour un contenu intellectuellement honnête
@@ -97,17 +97,23 @@ Tableau de prix sécurisé et responsive avec backend FastAPI pour paiements Str
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
+
 ### 🔢 [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
 Générateur Fibonacci Bignum en Assembly x86_64 - moteur arithmétique bare-metal écrivant de grandes séquences Fibonacci
 <br>
 ![Assembly](https://img.shields.io/badge/x86__64-Assembly-6E4C13?style=flat)
 ![Bare Metal](https://img.shields.io/badge/Bare-Metal-orange)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
+
 ### ⚡ [ctime](https://github.com/Lombard-Web-Services/ctime)
 Horloge CPU haute précision - alternative à gettime avec support femto/attosecondes basée sur les cycles d'horloge
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-red)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4A460&height=1&section=footer&width=100%"/>
 
 ### 🌀 [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
 Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos en format pyramide holographique
@@ -116,12 +122,16 @@ Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos e
 ![AI](https://img.shields.io/badge/AI-Powered-purple)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DEB887&height=1&section=footer&width=100%"/>
+
 ### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
 Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C19A6B&height=1&section=footer&width=100%"/>
 
 ### 🧦 [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
 Vérificateur de proxy Socks5 en Python pour le data scraping
@@ -130,12 +140,16 @@ Vérificateur de proxy Socks5 en Python pour le data scraping
 ![Proxy](https://img.shields.io/badge/Proxy-SOCKS5-blue)
 ![Scraping](https://img.shields.io/badge/Data-Scraping-green)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B7355&height=1&section=footer&width=100%"/>
+
 ### 🎤 [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
 Outil VSA (Voice Stress Analysis) de micro-tremblements simple pour détecter les mensonges par analyse FFT des fréquences vocales
 <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Audio](https://img.shields.io/badge/Audio-FFT-orange)
 ![Security](https://img.shields.io/badge/Security-Forensics-red)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A0826D&height=1&section=footer&width=100%"/>
 
 ### 🦟 [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
 Répulsif à insectes expérimental par ultrasons
@@ -144,12 +158,16 @@ Répulsif à insectes expérimental par ultrasons
 ![Audio](https://img.shields.io/badge/Audio-Ultrasound-purple)
 ![Experimental](https://img.shields.io/badge/Expérimental-Research-yellow)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=1&section=footer&width=100%"/>
+
 ### 🐚 [Bash](https://github.com/Lombard-Web-Services/Bash)
 Outils que j'ai programmés en Bash
 <br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-green)
 ![License](https://img.shields.io/badge/GPL-v3.0-blue)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5C4033&height=1&section=footer&width=100%"/>
 
 ### 🪐 [Venus](https://github.com/Lombard-Web-Services/Venus)
 Cartes interactives de la surface de Vénus utilisant les données NASA pour visualiser l'élévation et le terrain depuis Magellan et Parker Solar Probe
@@ -158,12 +176,16 @@ Cartes interactives de la surface de Vénus utilisant les données NASA pour vis
 ![NASA](https://img.shields.io/badge/NASA-Data-blue)
 ![Space](https://img.shields.io/badge/Space-Exploration-purple)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
+
 ### 🎓 [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
 Learning Management System construit avec une architecture multi-mémoire
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![LMS](https://img.shields.io/badge/LMS-Education-green)
 ![Architecture](https://img.shields.io/badge/Architecture-Multi--Memory-orange)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
 ### 📏 [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
 Framework de calcul de distances et métriques
@@ -172,6 +194,8 @@ Framework de calcul de distances et métriques
 ![Math](https://img.shields.io/badge/Math-Metrics-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
+
 ### 🧮 [calc](https://github.com/Lombard-Web-Services/calc)
 Calculatrice en Racket
 <br>
@@ -179,17 +203,23 @@ Calculatrice en Racket
 ![Functional](https://img.shields.io/badge/Functional-Programming-orange)
 ![License](https://img.shields.io/badge/Apache-2.0-blue)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
+
 ### ⚙️ [operators](https://github.com/Lombard-Web-Services/operators)
 Travaux sur les opérateurs
 <br>
 ![Math](https://img.shields.io/badge/Math-Operators-blue)
 ![License](https://img.shields.io/badge/GPL-v3.0-blue)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
+
 ### 🦠 [covid19](https://github.com/Lombard-Web-Services/covid19)
 Carte, écart-type et statistiques COVID-19
 <br>
 ![Data](https://img.shields.io/badge/Data-Analysis-green)
 ![Statistics](https://img.shields.io/badge/Stats-Standard--Deviation-blue)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
 
 ### 🎮 [MB2C](https://github.com/Lombard-Web-Services/MB2C)
 Script générant un fichier Cue sheet depuis une liste de fichiers .bin (images PS1/PSX) pour créer un eboot PSVITA
@@ -198,6 +228,8 @@ Script générant un fichier Cue sheet depuis une liste de fichiers .bin (images
 ![PSX](https://img.shields.io/badge/PSX-Retro-gaming-red)
 ![PSVITA](https://img.shields.io/badge/PSVITA-Homebrew-blue)
 ![License](https://img.shields.io/badge/GPL-v3.0-blue)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
 
 ### 📜 [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
 Générateur de certificats PDF serverless en ligne
@@ -212,7 +244,7 @@ Générateur de certificats PDF serverless en ligne
 
 ### Langages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,php&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,php,bash,mysql,sqlite,lisp,asm&theme=light" />
 </p>
 
 ### Frameworks & Libraries
@@ -269,9 +301,9 @@ Générateur de certificats PDF serverless en ligne
 
 </div>
 
-<!-- Footer avec couleurs marron/brunes -->
+<!-- Footer avec dégradé brun/chocolat -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,28,30,32&height=100&section=footer" />
 </div>
 
 ---
