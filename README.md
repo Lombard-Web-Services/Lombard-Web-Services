@@ -42,12 +42,7 @@ Documentation technique sur divers sujets
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Docs-Technical-green)
 
-### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
-Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
 ### 📱 [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
 Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applications Android avec HTTPS, support systemd et gestion flexible des certificats
@@ -56,12 +51,16 @@ Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applicat
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Telemetry-green)
 
+---
+
 ### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
 Signature thermodynamique de la lumière en sonoluminescence
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-Research-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 ### 🔐 [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
 Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Canvas, Audio, WebGL, zero dépendance
@@ -70,12 +69,16 @@ Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Can
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Security](https://img.shields.io/badge/Security-Fingerprinting-red)
 
+---
+
 ### 📐 [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
 Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least Squares) adapté à la perte de Cauchy
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Math](https://img.shields.io/badge/Math-Optimization-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 ### 📜 [Deontology](https://github.com/Lombard-Web-Services/deontology)
 Framework et spécification pour un contenu intellectuellement honnête
@@ -113,12 +116,12 @@ Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos e
 ![AI](https://img.shields.io/badge/AI-Powered-purple)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 
-### 🎓 [Answer](https://github.com/Lombard-Web-Services/Answer)
-Mes réponses aux examens de Machine Learning et Deep Learning
+### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
+Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine-Learning-orange)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🧦 [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
 Vérificateur de proxy Socks5 en Python pour le data scraping
