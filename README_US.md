@@ -281,18 +281,15 @@ Serverless online PDF certificate generator
 ## 🌐 Connect With Me
 
 <div align="center">
-
   [![Website](https://img.shields.io/badge/🌐%20Website-lombard--web--services.com-8B4513?style=for-the-badge)](https://lombard-web-services.com)
   [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Thibaut%20Lombard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibautlombard/)
   [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@lombardweb-1DA1F2?style=for-the-badge)](https://twitter.com/lombardweb)
-  [![GitHub](https://img.shields.io/badge/💻%20GitHub-Lombard--Web--Services-181717?style=for-the-badge)](https://github.com/Lombard-Web-Services)
-
 </div>
 
 ---
 
 <div align="center">
-  🇫🇷 **French version** 👉 [here](https://github.com/Lombard-Web-Services/Lombard-Web-Services/blob/main/README_FR.md)
+ <h3>🇫🇷 French version 👉 <a href="https://github.com/Lombard-Web-Services/">here</a></h3>
 </div>
 
 ---
