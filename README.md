@@ -28,7 +28,7 @@
 Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialisé dans l'**intelligence artificielle** et le **développement fullstack**. J'aime explorer les couches basses de l'informatique autant que créer des applications modernes et scalables.
 
 - 🔭 Actuellement : Développement de solutions AI et systèmes performants
-- 🌱 Toujours en apprentissage : Deep Learning, Optimisation système
+- 📜 Certifié : Machine Learning, Deep Learning, Optimisation système, Développement Javascript, Développeur Python
 - 💡 Passion : Programmation bas niveau (Assembly, C) & Haut niveau (Python, Web)
 - 🏢 Entrepreneur individuel - [Lombard Web Services](https://lombard-web-services.com)
 
@@ -38,17 +38,17 @@ Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialis
 
 ### Langages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,go,rust,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,php&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,flask,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,jquery,bootstrap&theme=dark" />
 </p>
 
 ### Outils & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux,vim,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,github,linux,vim,bash&theme=dark" />
 </p>
 
 ### Data & AI
@@ -141,24 +141,6 @@ Documentation technique sur divers sujets
 ![Documentation](https://img.shields.io/badge/Docs-Technical-green)
 
 </div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lombard-Web-Services&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Lombard-Web-Services&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
-
----
 
 ## 🌐 Me Contacter
 
