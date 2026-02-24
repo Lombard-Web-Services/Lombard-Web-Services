@@ -27,16 +27,16 @@
 
 Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialisé dans la **gestion de projets** , l'**intelligence artificielle** et le **développement fullstack**. J'aime explorer les couches basses de l'informatique autant que créer des applications modernes et scalables.
 
-- 🔭 Actuellement : Développement de solutions AI et systèmes performants
-- 📜 Certifié : Project Manager, Machine Learning, Deep Learning, Optimisation système, Développement Javascript, Développeur Python
-- 💡 Passion : Programmation bas niveau (Assembly, C) & Haut niveau (Python, Web)
-- 🏢 Entrepreneur individuel - [Lombard Web Services](https://lombard-web-services.com)
+- Actuellement : Développement de solutions AI et systèmes performants
+- Certifié : Project Manager, Machine Learning, Deep Learning, Optimisation système, Développement Javascript, Développeur Python
+- Passion : Programmation bas niveau (Assembly, C) & Haut niveau (Python, Web)
+- Entrepreneur individuel - [Lombard Web Services](https://lombard-web-services.com)
 
 ---
 
-## 🌟 Projets en Vedette
+## Projets en Vedette
 
-### 📚 [Docs](https://github.com/Lombard-Web-Services/Docs)
+### [Docs](https://github.com/Lombard-Web-Services/Docs)
 Documentation technique sur divers sujets
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -44,7 +44,7 @@ Documentation technique sur divers sujets
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 📱 [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
+### [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
 Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applications Android avec HTTPS, support systemd et gestion flexible des certificats
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,7 +53,7 @@ Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applicat
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
-### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
+### [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
 Signature thermodynamique de la lumière en sonoluminescence
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ Signature thermodynamique de la lumière en sonoluminescence
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
 
-### 🔐 [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
+### [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
 Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Canvas, Audio, WebGL, zero dépendance
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -71,7 +71,7 @@ Bibliothèque avancée de fingerprinting JavaScript, basée sur l'entropie - Can
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
 
-### 📐 [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
+### [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
 Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least Squares) adapté à la perte de Cauchy
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -80,7 +80,7 @@ Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 📜 [Deontology](https://github.com/Lombard-Web-Services/deontology)
+### [Deontology](https://github.com/Lombard-Web-Services/deontology)
 Framework et spécification pour un contenu intellectuellement honnête
 <br>
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -88,9 +88,9 @@ Framework et spécification pour un contenu intellectuellement honnête
 
 ---
 
-## 🚀 Autres Projets
+## Autres Projets
 
-### 💳 [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
+### [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
 Tableau de prix sécurisé et responsive avec backend FastAPI pour paiements Stripe, UI moderne avec bascule langue/thème
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -99,7 +99,7 @@ Tableau de prix sécurisé et responsive avec backend FastAPI pour paiements Str
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
 
-### 🔢 [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
+### [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
 Générateur Fibonacci Bignum en Assembly x86_64 - moteur arithmétique bare-metal écrivant de grandes séquences Fibonacci
 <br>
 ![Assembly](https://img.shields.io/badge/x86__64-Assembly-6E4C13?style=flat)
@@ -107,7 +107,7 @@ Générateur Fibonacci Bignum en Assembly x86_64 - moteur arithmétique bare-met
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
 
-### ⚡ [ctime](https://github.com/Lombard-Web-Services/ctime)
+### [ctime](https://github.com/Lombard-Web-Services/ctime)
 Horloge CPU haute précision - alternative à gettime avec support femto/attosecondes basée sur les cycles d'horloge
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -115,7 +115,7 @@ Horloge CPU haute précision - alternative à gettime avec support femto/attosec
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4A460&height=1&section=footer&width=100%"/>
 
-### 🌀 [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
+### [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
 Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos en format pyramide holographique
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -124,7 +124,7 @@ Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DEB887&height=1&section=footer&width=100%"/>
 
-### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
+### [HTML](https://github.com/Lombard-Web-Services/html)
 Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -133,7 +133,7 @@ Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C19A6B&height=1&section=footer&width=100%"/>
 
-### 🧦 [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
+### [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
 Vérificateur de proxy Socks5 en Python pour le data scraping
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -142,7 +142,7 @@ Vérificateur de proxy Socks5 en Python pour le data scraping
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B7355&height=1&section=footer&width=100%"/>
 
-### 🎤 [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
+### [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
 Outil VSA (Voice Stress Analysis) de micro-tremblements simple pour détecter les mensonges par analyse FFT des fréquences vocales
 <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -151,7 +151,7 @@ Outil VSA (Voice Stress Analysis) de micro-tremblements simple pour détecter le
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0826D&height=1&section=footer&width=100%"/>
 
-### 🦟 [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
+### [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
 Répulsif à insectes expérimental par ultrasons
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -160,7 +160,7 @@ Répulsif à insectes expérimental par ultrasons
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=1&section=footer&width=100%"/>
 
-### 🐚 [Bash](https://github.com/Lombard-Web-Services/Bash)
+### [Bash](https://github.com/Lombard-Web-Services/Bash)
 Outils que j'ai programmés en Bash
 <br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -169,7 +169,7 @@ Outils que j'ai programmés en Bash
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5C4033&height=1&section=footer&width=100%"/>
 
-### 🪐 [Venus](https://github.com/Lombard-Web-Services/Venus)
+### [Venus](https://github.com/Lombard-Web-Services/Venus)
 Cartes interactives de la surface de Vénus utilisant les données NASA pour visualiser l'élévation et le terrain depuis Magellan et Parker Solar Probe
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -178,7 +178,7 @@ Cartes interactives de la surface de Vénus utilisant les données NASA pour vis
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 🎓 [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
+### [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
 Learning Management System construit avec une architecture multi-mémoire
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -187,7 +187,7 @@ Learning Management System construit avec une architecture multi-mémoire
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
-### 📏 [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
+### [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
 Framework de calcul de distances et métriques
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -196,7 +196,7 @@ Framework de calcul de distances et métriques
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
 
-### 🧮 [calc](https://github.com/Lombard-Web-Services/calc)
+### [calc](https://github.com/Lombard-Web-Services/calc)
 Calculatrice en Racket
 <br>
 ![Racket](https://img.shields.io/badge/Racket-3F5D7D?style=flat&logo=racket&logoColor=white)
@@ -205,7 +205,7 @@ Calculatrice en Racket
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
 
-### ⚙️ [operators](https://github.com/Lombard-Web-Services/operators)
+### [operators](https://github.com/Lombard-Web-Services/operators)
 Travaux sur les opérateurs
 <br>
 ![Math](https://img.shields.io/badge/Math-Operators-blue)
@@ -213,7 +213,7 @@ Travaux sur les opérateurs
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 🦠 [covid19](https://github.com/Lombard-Web-Services/covid19)
+### [covid19](https://github.com/Lombard-Web-Services/covid19)
 Carte, écart-type et statistiques COVID-19
 <br>
 ![Data](https://img.shields.io/badge/Data-Analysis-green)
@@ -221,7 +221,7 @@ Carte, écart-type et statistiques COVID-19
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
 
-### 🎮 [MB2C](https://github.com/Lombard-Web-Services/MB2C)
+### [MB2C](https://github.com/Lombard-Web-Services/MB2C)
 Script générant un fichier Cue sheet depuis une liste de fichiers .bin (images PS1/PSX) pour créer un eboot PSVITA
 <br>
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -231,7 +231,7 @@ Script générant un fichier Cue sheet depuis une liste de fichiers .bin (images
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
 
-### 📜 [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
+### [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
 Générateur de certificats PDF serverless en ligne
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -240,7 +240,7 @@ Générateur de certificats PDF serverless en ligne
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Langages
 <p align="center">
