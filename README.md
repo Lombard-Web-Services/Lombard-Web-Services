@@ -285,14 +285,14 @@ Générateur de certificats PDF serverless en ligne
   [![Website](https://img.shields.io/badge/🌐%20Website-lombard--web--services.com-8B4513?style=for-the-badge)](https://lombard-web-services.com)
   [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@lombardweb-1DA1F2?style=for-the-badge)](https://twitter.com/lombardweb)
   [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Thibaut%20Lombard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibautlombard/)
-  [![GitHub](https://img.shields.io/badge/💻%20GitHub-Lombard--Web--Services-181717?style=for-the-badge)](https://github.com/Lombard-Web-Services)
 
 </div>
 
 ---
 
 <div align="center">
-  
+   <h3>Version Anglaise 🇬🇧 👉 <a href="https://github.com/Lombard-Web-Services/Lombard-Web-Services/blob/main/README_US.md">ici</a></h3>
+
   <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lombard-Web-Services/Lombard-Web-Services/output/github-contribution-grid-snake-light.svg" />
