@@ -27,16 +27,16 @@
 
 I am **Thibaut Lombard**, a passionate developer based in France, specializing in **project management**, **artificial intelligence**, and **fullstack development**. I enjoy exploring low-level computing layers as much as creating modern, scalable applications.
 
-- 🔭 Currently working on: AI solutions and high-performance systems
-- 📜 Certified in: Project Management, Machine Learning, Deep Learning, System Optimization, JavaScript Development, Python Development
-- 💡 Passion: Low-level programming (Assembly, C) & High-level programming (Python, Web)
-- 🏢 Sole proprietor - [Lombard Web Services](https://lombard-web-services.com)
+- Currently working on: AI solutions and high-performance systems
+- Certified in: Project Management, Machine Learning, Deep Learning, System Optimization, JavaScript Development, Python Development
+- Passion: Low-level programming (Assembly, C) & High-level programming (Python, Web)
+- Sole proprietor - [Lombard Web Services](https://lombard-web-services.com)
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 📚 [Docs](https://github.com/Lombard-Web-Services/Docs)
+### [Docs](https://github.com/Lombard-Web-Services/Docs)
 Technical documentation on various subjects
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -44,7 +44,7 @@ Technical documentation on various subjects
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 📱 [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
+### [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
 Secure FastAPI backend for collecting and storing Android app telemetry with HTTPS, systemd support, and flexible certificate management
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,7 +53,7 @@ Secure FastAPI backend for collecting and storing Android app telemetry with HTT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
-### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
+### [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
 Thermodynamic signature of light in sonoluminescence
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ Thermodynamic signature of light in sonoluminescence
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
 
-### 🔐 [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
+### [Advanced Fingerprinting Library](https://github.com/Lombard-Web-Services/Advanced-Fingerprinting-Library)
 Advanced JavaScript fingerprinting library based on entropy - Canvas, Audio, WebGL, zero dependencies
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -71,7 +71,7 @@ Advanced JavaScript fingerprinting library based on entropy - Canvas, Audio, Web
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
 
-### 📐 [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
+### [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
 Quasi-Lorentzian solver using an IRLS (Iteratively Reweighted Least Squares) scheme adapted to Cauchy loss
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -80,7 +80,7 @@ Quasi-Lorentzian solver using an IRLS (Iteratively Reweighted Least Squares) sch
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 📜 [Deontology](https://github.com/Lombard-Web-Services/deontology)
+### [Deontology](https://github.com/Lombard-Web-Services/deontology)
 Framework and specification for intellectually honest content
 <br>
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -88,9 +88,9 @@ Framework and specification for intellectually honest content
 
 ---
 
-## 🚀 Other Projects
+## Other Projects
 
-### 💳 [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
+### [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
 Secure and responsive pricing table with FastAPI backend for Stripe payments, modern UI with language and theme toggles
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -99,7 +99,7 @@ Secure and responsive pricing table with FastAPI backend for Stripe payments, mo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
 
-### 🔢 [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
+### [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
 Fibonacci Bignum generator in x86_64 Assembly - bare-metal arithmetic engine writing large-scale Fibonacci sequences
 <br>
 ![Assembly](https://img.shields.io/badge/x86__64-Assembly-6E4C13?style=flat)
@@ -107,7 +107,7 @@ Fibonacci Bignum generator in x86_64 Assembly - bare-metal arithmetic engine wri
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
 
-### ⚡ [ctime](https://github.com/Lombard-Web-Services/ctime)
+### [ctime](https://github.com/Lombard-Web-Services/ctime)
 High-precision CPU clock - gettime alternative with femto/attosecond support based on clock cycles
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -115,7 +115,7 @@ High-precision CPU clock - gettime alternative with femto/attosecond support bas
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4A460&height=1&section=footer&width=100%"/>
 
-### 🌀 [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
+### [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
 Command-line tool using AI and ffmpeg to convert videos into holographic pyramid format
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -124,7 +124,7 @@ Command-line tool using AI and ffmpeg to convert videos into holographic pyramid
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DEB887&height=1&section=footer&width=100%"/>
 
-### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
+### [HTML](https://github.com/Lombard-Web-Services/html)
 HTML5, CSS3 and Javascript helper scripts I programmed
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -133,7 +133,7 @@ HTML5, CSS3 and Javascript helper scripts I programmed
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C19A6B&height=1&section=footer&width=100%"/>
 
-### 🧦 [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
+### [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
 Socks5 proxy checker in Python for data scraping
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -142,7 +142,7 @@ Socks5 proxy checker in Python for data scraping
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B7355&height=1&section=footer&width=100%"/>
 
-### 🎤 [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
+### [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
 Simple VSA (Voice Stress Analysis) micro-tremor tool to detect lies through FFT voice frequency analysis
 <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -151,7 +151,7 @@ Simple VSA (Voice Stress Analysis) micro-tremor tool to detect lies through FFT 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0826D&height=1&section=footer&width=100%"/>
 
-### 🦟 [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
+### [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
 Experimental insect repeller using ultrasound
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -160,7 +160,7 @@ Experimental insect repeller using ultrasound
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=1&section=footer&width=100%"/>
 
-### 🐚 [Bash](https://github.com/Lombard-Web-Services/Bash)
+### [Bash](https://github.com/Lombard-Web-Services/Bash)
 Tools I programmed in Bash
 <br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -169,7 +169,7 @@ Tools I programmed in Bash
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5C4033&height=1&section=footer&width=100%"/>
 
-### 🪐 [Venus](https://github.com/Lombard-Web-Services/Venus)
+### [Venus](https://github.com/Lombard-Web-Services/Venus)
 Interactive maps of Venus's surface using NASA data to visualize elevation and terrain from Magellan and Parker Solar Probe imagery
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -178,7 +178,7 @@ Interactive maps of Venus's surface using NASA data to visualize elevation and t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 🎓 [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
+### [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
 Learning Management System built with multi-memory architecture
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -187,7 +187,7 @@ Learning Management System built with multi-memory architecture
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A0522D&height=1&section=footer&width=100%"/>
 
-### 📏 [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
+### [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
 Distance and metric calculation framework
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -196,7 +196,7 @@ Distance and metric calculation framework
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CD853F&height=1&section=footer&width=100%"/>
 
-### 🧮 [calc](https://github.com/Lombard-Web-Services/calc)
+### [calc](https://github.com/Lombard-Web-Services/calc)
 Calculator in Racket
 <br>
 ![Racket](https://img.shields.io/badge/Racket-3F5D7D?style=flat&logo=racket&logoColor=white)
@@ -205,7 +205,7 @@ Calculator in Racket
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2691E&height=1&section=footer&width=100%"/>
 
-### ⚙️ [operators](https://github.com/Lombard-Web-Services/operators)
+### [operators](https://github.com/Lombard-Web-Services/operators)
 Work on operators
 <br>
 ![Math](https://img.shields.io/badge/Math-Operators-blue)
@@ -213,7 +213,7 @@ Work on operators
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=1&section=footer&width=100%"/>
 
-### 🦠 [covid19](https://github.com/Lombard-Web-Services/covid19)
+### [covid19](https://github.com/Lombard-Web-Services/covid19)
 COVID-19 map, standard deviation and statistics
 <br>
 ![Data](https://img.shields.io/badge/Data-Analysis-green)
@@ -221,7 +221,7 @@ COVID-19 map, standard deviation and statistics
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2B48C&height=1&section=footer&width=100%"/>
 
-### 🎮 [MB2C](https://github.com/Lombard-Web-Services/MB2C)
+### [MB2C](https://github.com/Lombard-Web-Services/MB2C)
 Script generating a Cue sheet file from a list of .bin files (PS1 or PSX images) to create an eboot file for PSVITA
 <br>
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -231,7 +231,7 @@ Script generating a Cue sheet file from a list of .bin files (PS1 or PSX images)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BC8F8F&height=1&section=footer&width=100%"/>
 
-### 📜 [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
+### [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
 Serverless online PDF certificate generator
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -240,7 +240,7 @@ Serverless online PDF certificate generator
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="center">
