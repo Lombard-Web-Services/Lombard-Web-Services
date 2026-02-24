@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 > *"Transformer les idées complexes en solutions élégantes"*
 
@@ -34,26 +34,196 @@ Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialis
 
 ---
 
+## 🌟 Projets 
+<div align="center">
+
+### 📜 [Deontology](https://github.com/Lombard-Web-Services/deontology)
+Framework et spécification pour un contenu intellectuellement honnête
+<br>
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+### 📚 [Docs](https://github.com/Lombard-Web-Services/Docs)
+Documentation technique sur divers sujets
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Documentation](https://img.shields.io/badge/Docs-Technical-green)
+
+
+### 📐 [Cauchy](https://github.com/Lombard-Web-Services/cauchy)
+Solveur quasi-lorentzien grâce à un schéma IRLS (Iteratively Reweighted Least Squares) adapté à la perte de Cauchy
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Math](https://img.shields.io/badge/Math-Optimization-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+### 🌐 [HTML](https://github.com/Lombard-Web-Services/html)
+Scripts helpers HTML5, CSS3 et Javascript que j'ai programmés
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
+Signature thermodynamique de la lumière en sonoluminescence
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Physics](https://img.shields.io/badge/Physics-Research-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+### 💳 [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
+Tableau de prix sécurisé et responsive avec backend FastAPI pour paiements Stripe, UI moderne avec bascule langue/thème
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+
+### 🔢 [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
+Générateur Fibonacci Bignum en Assembly x86_64 - moteur arithmétique bare-metal écrivant de grandes séquences Fibonacci
+<br>
+![Assembly](https://img.shields.io/badge/x86__64-Assembly-6E4C13?style=flat)
+![Bare Metal](https://img.shields.io/badge/Bare-Metal-orange)
+
+
+### ⚡ [ctime](https://github.com/Lombard-Web-Services/ctime)
+Horloge CPU haute précision - alternative à gettime avec support femto/attosecondes basée sur les cycles d'horloge
+<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Performance](https://img.shields.io/badge/Performance-Optimized-red)
+
+
+### 🧦 [Socks5 Checker](https://github.com/Lombard-Web-Services/Socks5_checker)
+Vérificateur de proxy Socks5 en Python pour le data scraping
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Proxy](https://img.shields.io/badge/Proxy-SOCKS5-blue)
+![Scraping](https://img.shields.io/badge/Data-Scraping-green)
+
+
+### 🎤 [How Dare You](https://github.com/Lombard-Web-Services/howdareyou)
+Outil VSA (Voice Stress Analysis) de micro-tremblements simple pour détecter les mensonges par analyse FFT des fréquences vocales
+<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Audio](https://img.shields.io/badge/Audio-FFT-orange)
+![Security](https://img.shields.io/badge/Security-Forensics-red)
+
+
+### 🦟 [Insect Repeller](https://github.com/Lombard-Web-Services/Insect-Repeller)
+Répulsif à insectes expérimental par ultrasons
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Audio](https://img.shields.io/badge/Audio-Ultrasound-purple)
+![Experimental](https://img.shields.io/badge/Expérimental-Research-yellow)
+
+
+### 🐚 [Bash](https://github.com/Lombard-Web-Services/Bash)
+Outils que j'ai programmés en Bash
+<br>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Scripting-green)
+![License](https://img.shields.io/badge/GPL-v3.0-blue)
+
+
+### 🪐 [Venus](https://github.com/Lombard-Web-Services/Venus)
+Cartes interactives de la surface de Vénus utilisant les données NASA pour visualiser l'élévation et le terrain depuis Magellan et Parker Solar Probe
+<br>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA-Data-blue)
+![Space](https://img.shields.io/badge/Space-Exploration-purple)
+
+
+### 🎓 [FeedForward](https://github.com/Lombard-Web-Services/FeedForward)
+Learning Management System construit avec une architecture multi-mémoire
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![LMS](https://img.shields.io/badge/LMS-Education-green)
+![Architecture](https://img.shields.io/badge/Architecture-Multi--Memory-orange)
+
+
+### 📱 [Android Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
+Backend FastAPI sécurisé pour collecter et stocker la télémétrie d'applications Android avec HTTPS, support systemd et gestion flexible des certificats
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Telemetry-green)
+
+
+### 📏 [dist-framework](https://github.com/Lombard-Web-Services/dist-framework)
+Framework de calcul de distances et métriques
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Math](https://img.shields.io/badge/Math-Metrics-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+### 🧮 [calc](https://github.com/Lombard-Web-Services/calc)
+Calculatrice en Racket
+<br>
+![Racket](https://img.shields.io/badge/Racket-3F5D7D?style=flat&logo=racket&logoColor=white)
+![Functional](https://img.shields.io/badge/Functional-Programming-orange)
+![License](https://img.shields.io/badge/Apache-2.0-blue)
+
+
+### ⚙️ [operators](https://github.com/Lombard-Web-Services/operators)
+Travaux sur les opérateurs
+<br>
+![Math](https://img.shields.io/badge/Math-Operators-blue)
+![License](https://img.shields.io/badge/GPL-v3.0-blue)
+
+
+### 🦠 [covid19](https://github.com/Lombard-Web-Services/covid19)
+Carte, écart-type et statistiques COVID-19
+<br>
+![Data](https://img.shields.io/badge/Data-Analysis-green)
+![Statistics](https://img.shields.io/badge/Stats-Standard--Deviation-blue)
+
+
+### 🌀 [HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
+Outil en ligne de commande utilisant l'IA et ffmpeg pour convertir des vidéos en format pyramide holographique
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-purple)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+
+
+
+### 🎮 [MB2C](https://github.com/Lombard-Web-Services/MB2C)
+Script générant un fichier Cue sheet depuis une liste de fichiers .bin (images PS1/PSX) pour créer un eboot PSVITA
+<br>
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PSX](https://img.shields.io/badge/PSX-Retro-gaming-red)
+![PSVITA](https://img.shields.io/badge/PSVITA-Homebrew-blue)
+![License](https://img.shields.io/badge/GPL-v3.0-blue)
+
+
+### 📜 [cert-pdf](https://github.com/Lombard-Web-Services/cert-pdf)
+Générateur de certificats PDF serverless en ligne
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PDF](https://img.shields.io/badge/PDF-Generation-red)
+![Serverless](https://img.shields.io/badge/Serverless-Cloud-blue)
+</div>
+
 ## 🛠️ Stack Technique
 
 ### Langages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,php&theme=light" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,jquery,bootstrap&theme=dark" />
-</p>
-
-### Outils & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,github,linux,vim,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,jquery,bootstrap&theme=light" />
 </p>
 
 ### Data & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -87,61 +257,6 @@ Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialis
 
 ---
 
-## 🌟 Projets en Vedette
-
-<div align="center">
-
-### 🔐 [Android-Telemetry](https://github.com/Lombard-Web-Services/Android-Telemetry)
-Backend FastAPI sécurisé pour la collecte de télémétrie Android
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-secure-brightgreen)
-
----
-
-### ⚡ [ctime](https://github.com/Lombard-Web-Services/ctime)
-Horloge CPU haute précision - alternative à gettime avec support femto/attosecondes
-<br>
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
-![Performance](https://img.shields.io/badge/Performance-Optimized-red)
-
----
-
-### 🔢 [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)
-Générateur Fibonacci Bignum en Assembly x86_64 - arithmétique bare-metal
-<br>
-![Assembly](https://img.shields.io/badge/x86__64-Assembly-6E4C13?style=flat)
-![Bare Metal](https://img.shields.io/badge/Bare-Metal-orange)
-
----
-
-### 💳 [Secure Pricetable](https://github.com/Lombard-Web-Services/secure-pricetable-checkout-for-stripe-server)
-Tableau de prix sécurisé avec intégration Stripe et FastAPI
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-
----
-
-### 🔬 [Sonoluminescence](https://github.com/Lombard-Web-Services/sonoluminescence)
-Analyse thermodynamique de la sonoluminescence
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Physics](https://img.shields.io/badge/Physics-Research-blue)
-
----
-
-### 📚 [Docs](https://github.com/Lombard-Web-Services/Docs)
-Documentation technique sur divers sujets
-<br>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Documentation](https://img.shields.io/badge/Docs-Technical-green)
-
-</div>
-
 ## 🌐 Me Contacter
 
 <div align="center">
@@ -158,7 +273,7 @@ Documentation technique sur divers sujets
   
   <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lombard-Web-Services/Lombard-Web-Services/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lombard-Web-Services/Lombard-Web-Services/output/github-contribution-grid-snake-light.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lombard-Web-Services/Lombard-Web-Services/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Lombard-Web-Services/Lombard-Web-Services/output/github-contribution-grid-snake.svg" />
   </picture>
