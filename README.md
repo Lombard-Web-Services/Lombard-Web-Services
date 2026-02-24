@@ -34,7 +34,7 @@ Je suis **Thibaut Lombard**, développeur passionné basé en France, spécialis
 
 ---
 
-## 🌟 Projets en Vedette (Pinned)
+## 🌟 Projets en Vedette
 
 ### 📚 [Docs](https://github.com/Lombard-Web-Services/Docs)
 Documentation technique sur divers sujets
